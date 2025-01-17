@@ -15,7 +15,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "@slack/bolt": "^3.12.2",
-    "firebase-admin": "^11.4.1",
+    "firebase-admin": "^13.0.2",
     "firebase-functions": "^3.24.1"
   },
   "devDependencies": {
